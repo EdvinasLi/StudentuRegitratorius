@@ -1,5 +1,4 @@
 # StudentuRegitratorius
 
 
-
-Neziureti
+Students Registrator
